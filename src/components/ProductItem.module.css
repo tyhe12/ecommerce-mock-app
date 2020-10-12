@@ -1,0 +1,8 @@
+.cardImage {
+  height: 300px;
+  object-fit: scale-down;
+}
+
+.productCard {
+  height: 430px;
+}
